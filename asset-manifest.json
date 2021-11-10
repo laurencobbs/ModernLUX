@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/laurencobbs/ModernLUX/static/css/main.a67d236e.chunk.css",
-    "main.js": "/laurencobbs/ModernLUX/static/js/main.0fc7bb3d.chunk.js",
-    "main.js.map": "/laurencobbs/ModernLUX/static/js/main.0fc7bb3d.chunk.js.map",
-    "runtime-main.js": "/laurencobbs/ModernLUX/static/js/runtime-main.6c21bf0e.js",
-    "runtime-main.js.map": "/laurencobbs/ModernLUX/static/js/runtime-main.6c21bf0e.js.map",
-    "static/js/2.f9fb10f9.chunk.js": "/laurencobbs/ModernLUX/static/js/2.f9fb10f9.chunk.js",
-    "static/js/2.f9fb10f9.chunk.js.map": "/laurencobbs/ModernLUX/static/js/2.f9fb10f9.chunk.js.map",
-    "index.html": "/laurencobbs/ModernLUX/index.html",
-    "static/css/main.a67d236e.chunk.css.map": "/laurencobbs/ModernLUX/static/css/main.a67d236e.chunk.css.map",
-    "static/js/2.f9fb10f9.chunk.js.LICENSE.txt": "/laurencobbs/ModernLUX/static/js/2.f9fb10f9.chunk.js.LICENSE.txt",
-    "static/media/jannis-lucas-KsL8WZJ0CLA-unsplash.jpg": "/laurencobbs/ModernLUX/static/media/jannis-lucas-KsL8WZJ0CLA-unsplash.de796e53.jpg",
-    "static/media/jannis-lucas-UVCWILBdr-c-unsplash.jpg": "/laurencobbs/ModernLUX/static/media/jannis-lucas-UVCWILBdr-c-unsplash.f3fb5e32.jpg",
-    "static/media/App.css": "/laurencobbs/ModernLUX/static/media/roberto-nickson-so3wgJLwDxo-unsplash.e258870a.jpg",
-    "static/media/HeroSection.css": "/laurencobbs/ModernLUX/static/media/r-architecture-2gDwlIim3Uw-unsplash.21d1f5f8.jpg",
-    "static/media/r-architecture-MAnVoJlQUvg-unsplash.jpg": "/laurencobbs/ModernLUX/static/media/r-architecture-MAnVoJlQUvg-unsplash.91a44f8b.jpg",
-    "static/media/ralph-ravi-kayden-vbSRUrNm3Ik-unsplash.jpg": "/laurencobbs/ModernLUX/static/media/ralph-ravi-kayden-vbSRUrNm3Ik-unsplash.78b36777.jpg",
-    "static/media/tom-nora-EOLKGKy9u8w-unsplash.jpg": "/laurencobbs/ModernLUX/static/media/tom-nora-EOLKGKy9u8w-unsplash.2e0e6c66.jpg"
+    "main.css": "/ModernLUX/static/css/main.d8409aea.chunk.css",
+    "main.js": "/ModernLUX/static/js/main.0fc7bb3d.chunk.js",
+    "main.js.map": "/ModernLUX/static/js/main.0fc7bb3d.chunk.js.map",
+    "runtime-main.js": "/ModernLUX/static/js/runtime-main.e51c3aa4.js",
+    "runtime-main.js.map": "/ModernLUX/static/js/runtime-main.e51c3aa4.js.map",
+    "static/js/2.f9fb10f9.chunk.js": "/ModernLUX/static/js/2.f9fb10f9.chunk.js",
+    "static/js/2.f9fb10f9.chunk.js.map": "/ModernLUX/static/js/2.f9fb10f9.chunk.js.map",
+    "index.html": "/ModernLUX/index.html",
+    "static/css/main.d8409aea.chunk.css.map": "/ModernLUX/static/css/main.d8409aea.chunk.css.map",
+    "static/js/2.f9fb10f9.chunk.js.LICENSE.txt": "/ModernLUX/static/js/2.f9fb10f9.chunk.js.LICENSE.txt",
+    "static/media/jannis-lucas-KsL8WZJ0CLA-unsplash.jpg": "/ModernLUX/static/media/jannis-lucas-KsL8WZJ0CLA-unsplash.de796e53.jpg",
+    "static/media/jannis-lucas-UVCWILBdr-c-unsplash.jpg": "/ModernLUX/static/media/jannis-lucas-UVCWILBdr-c-unsplash.f3fb5e32.jpg",
+    "static/media/App.css": "/ModernLUX/static/media/roberto-nickson-so3wgJLwDxo-unsplash.e258870a.jpg",
+    "static/media/HeroSection.css": "/ModernLUX/static/media/r-architecture-2gDwlIim3Uw-unsplash.21d1f5f8.jpg",
+    "static/media/r-architecture-MAnVoJlQUvg-unsplash.jpg": "/ModernLUX/static/media/r-architecture-MAnVoJlQUvg-unsplash.91a44f8b.jpg",
+    "static/media/ralph-ravi-kayden-vbSRUrNm3Ik-unsplash.jpg": "/ModernLUX/static/media/ralph-ravi-kayden-vbSRUrNm3Ik-unsplash.78b36777.jpg",
+    "static/media/tom-nora-EOLKGKy9u8w-unsplash.jpg": "/ModernLUX/static/media/tom-nora-EOLKGKy9u8w-unsplash.2e0e6c66.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.6c21bf0e.js",
+    "static/js/runtime-main.e51c3aa4.js",
     "static/js/2.f9fb10f9.chunk.js",
-    "static/css/main.a67d236e.chunk.css",
+    "static/css/main.d8409aea.chunk.css",
     "static/js/main.0fc7bb3d.chunk.js"
   ]
 }
