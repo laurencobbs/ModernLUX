@@ -26,7 +26,7 @@ function Cards() {
             <CardItem
               img src= {require ('../images/jannis-lucas-KsL8WZJ0CLA-unsplash.jpg').default} alt=""
               text='BOOK NOW!'
-              label='700/night'
+              label='$700/night'
               path='/services'
             />
             <CardItem
