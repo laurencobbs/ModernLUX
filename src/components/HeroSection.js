@@ -6,8 +6,8 @@ import './HeroSection.css';
 function HeroSection() {
   return (
     <div className='hero-container'>
-      <h1>MODERN LUXURY AWAITS</h1>
-      <p>What are you waiting for?</p>
+      <h1>MODERN LUX 2021</h1>
+      <p>The most luxurious  homes of the year.</p>
       <div className='hero-btns'>
         <Button
           className='btns'

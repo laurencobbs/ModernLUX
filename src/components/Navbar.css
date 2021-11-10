@@ -27,11 +27,15 @@
     font-size: 2rem;
     display: flex;
     align-items: center;
+    letter-spacing: 1.5px;
   }
   
-  .fa-typo3 {
+  .fa-typo3{
     margin-left: 0.5rem;
     font-size: 1.8rem;
+    color: transparent;
+    background-clip: text;
+    background-image: linear-gradient(to top, #30cfd0 0%, #330867 100%);
   }
   
   .nav-menu {
