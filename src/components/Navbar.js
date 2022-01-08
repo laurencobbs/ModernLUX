@@ -66,6 +66,7 @@ function Navbar() {
                 className='nav-links-mobile'
                 onClick={closeMobileMenu}
               >
+              
                 TOUR
               </Link>
             </li>

@@ -62,7 +62,7 @@ function Footer() {
               <i class='fab fa-typo3' />
             </Link>
           </div>
-          <small class='website-rights'>Modern Lux © 2021</small>
+          <small class='website-rights'> © 2022 Modern Lux</small>
           <div class='social-icons'>
             <Link
               class='social-icon-link facebook'
